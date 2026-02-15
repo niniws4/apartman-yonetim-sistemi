@@ -4,4 +4,4 @@ Sakin bilgilerini, aidat ödemelerini ve apartman giderlerini takip etmeyi sağl
 Dil: C# (Windows Forms)
 Veri Tabanı: MySQL
 ## 🚀 Çalıştırma
-yonetim.sql dosyasını MySQL'e aktardıktan sonra WindowsFormsApp2.sln dosyasını Visual Studio ile başlatabilirsiniz.
+yonetim.sql dosyasını MySQL'e aktardıktan sonra apartmanyonetim.sln dosyasını Visual Studio ile başlatabilirsiniz.
